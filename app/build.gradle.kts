@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "pl.edu.pb.quiiz"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "pl.edu.pb.quiiz"
